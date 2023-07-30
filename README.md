@@ -1,4 +1,4 @@
-# GAM-MDA
+# GAM-MDR
 Probing miRNA-Drug Resistance using a Graph Autoencoder Based on Random Path Masking
 
 ## Main requirements
